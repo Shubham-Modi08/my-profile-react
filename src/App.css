@@ -10,17 +10,25 @@ App-logo {
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  
 }
+.skillheader{
+  font-family: Roboto;
+  color: white;
+  text-align: center;
+}
+
+
 
 .App-link {
   color: #61dafb;
+}
+.contactlogo{
+  position: absolute;
+  margin-left:410px;
+  width: 60px;
+  height: 60px;  
+  margin-top: 6px;
 }
 
 @keyframes App-logo-spin {
