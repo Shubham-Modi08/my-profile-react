@@ -8,8 +8,10 @@ class About extends Component {
                     <h1>About Me</h1> 
 
                     <img src={userlogo} width="180" height="180" alt="abtimg"/>
-                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
-                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+                    <p>To work with an IT association at a passage level position where I can use my specialized and diagnostic abilities in the field of innovation while adding
+                    to the improvement of the association. Passionate about implementing and launching new projects. Ability to translate business requirements into
+                    technical solutions. Have made projects for which different software development methodologies were implemented that are widely used in
+                    development.
                     </p>
                 
             </section>
