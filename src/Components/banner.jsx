@@ -10,7 +10,7 @@ class Banner extends Component {
         return (
             <section className="container-banner">
 
-                    <a href="#home"><img id="profilepic" src={logo}  width="170" height="170" alt="profilepic"/></a>
+                    <a href="#home"><img id="profilepic" src={logo}  width="100" height="100" alt="profilepic"/></a>
                     <h1> Hi! I'm Shubham Modi </h1>
                     <br/>
                     

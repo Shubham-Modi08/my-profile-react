@@ -14,8 +14,8 @@ class Project extends Component {
                 
                     <div className="skills-section"><img src={htmlimg} width="100" height="100" alt="html"/></div>  
                     <div className="skills-section"><img src={cssimg} width="100" height="100" alt="css"/></div>
-                    <div className="skills-section"><img src={droid} width="100" height="100" alt="android"/></div>
                     <div className="skills-section"><img src={js} width="100" height="100" alt="android"/></div>
+                    <div className="skills-section"><img src={droid} width="100" height="100" alt="android"/></div>
                     <div className="skills-section"><img src={kotlin} width="100" height="100" alt="android"/></div>
                
             </section>
